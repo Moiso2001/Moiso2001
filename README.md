@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moiso2001
 - 👀 I’m interested in learn new things and put on test myself.
-- 🌱 I’m currently learning the first steps about web development.
+- 🌱 I’m currently working in own projects and as freelancer doing and developing new applications.
 - 💞️ I’m looking to collaborate on big problems.
 - 📫 How to reach me well text me.
 
