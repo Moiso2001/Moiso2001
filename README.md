@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **TypeScript, AWS, React, React Native, Nodejs, MongoDB, PostgreSQL**
 
-- 🌱 I’m currently learning ** Python, Machine Learning, CSS Animations **
+- 🌱 I’m currently learning **Python, Machine Learning, CSS Animations**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
